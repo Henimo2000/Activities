@@ -1,10 +1,8 @@
-p, a, ul { color: rgb(156, 163, 51); }
+p, a, ul { color: rgb(13, 106, 53); }
 p { color: red; font-size: small; font-family: sans-serif; }
-h1 { color: green;}
+h1 { color: rgb(165, 215, 57);}
 
 li#choto123 { color: red; }
 #choto123 { color: red; }
 
-a.special { color: orange; }
-
-.special { color: aqua;}
+.special { color: rgb(86, 114, 57);}
